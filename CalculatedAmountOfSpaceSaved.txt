@@ -1,0 +1,3 @@
+Previous bit count: 407080, New bit count: 237549
+Bits saved: 169531, New file amount of bits as percentage of old file: 58%
+
