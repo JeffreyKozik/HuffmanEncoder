@@ -1,2 +1,3 @@
 # HuffmanEncoder
-Data Structures project to Huffman Encode a file and output the encoded file, the individual encodings, and the calculated amount of space saved.
+Input file is read, HashMap stores frequencies, ArrayList encapsulates data in nodes then is turned into Huffman Tree which encodes characters.
+Created for Data Structures class in March 2020.
