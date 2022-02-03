@@ -7,3 +7,4 @@
   <li> The "encoded" Little Women file is the result of the huffman encoding. </li>
   <li> It's important to note the program doesn't actually perform sophisticated binary manipulation - rather it replaces each character with its huffman encoded binary equivalent (so a series of the characters "1" and "0"). This means the "encoded" file actually takes up more space than the original file. But, it's really the idea that counts in terms of generating the Huffman encoding. </li>
 </ul>
+ 
